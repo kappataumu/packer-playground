@@ -6,7 +6,7 @@
     },
 
     "builders": [{
-        "type": "virtualbox",
+        "type": "virtualbox-iso",
         "guest_os_type": "Ubuntu_64",
 
         "vboxmanage": [
